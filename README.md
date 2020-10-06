@@ -1,7 +1,7 @@
 Hello there! I'm Shreyas Kadekodi. I am a second year Computer Science student at The University of Colorado Boulder. I have an strong interest in ML/AI. When I'm not on my computer, I can sometimes be found struggling with the most meager weights my gym has to offer.
 
-- 🔭 I’m currently joining That Recommender Systems and Human Interaction and Robotics Group
-- 😄 Pronouns: He/Him/His
+- I’m currently joining That Recommender Systems and Human Interaction and Robotics Group
+- Pronouns: He/Him/His
 <!--
 **Kadekool/Kadekool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
