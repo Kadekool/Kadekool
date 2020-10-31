@@ -1,4 +1,4 @@
-Hello there! My name is Shreyas Kadekodi. I am a second year Computer Science student at The University of Colorado Boulder. I have an strong interest in Machine Learning / AI. When I'm not on my computer, I can sometimes be found struggling with the most meager weights my gym has to offer.
+Hello there! My name is Shreyas Kadekodi. I am a second year Computer Science student at The University of Colorado Boulder. I have an strong interest in Machine Learning / Artifical Intelligence. When I'm not on my computer, I can sometimes be found struggling with the most meager weights my gym has to offer.
 
 - I’m currently in That Recommender Systems Lab and Human Interaction and Robotics Group
 - Pronouns: He/Him/His
