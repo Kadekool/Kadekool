@@ -1,6 +1,6 @@
 Hello there! My name is Shreyas Kadekodi. I am a Computer Science student at The University of Colorado Boulder. I have an strong interest in Machine Learning / Artifical Intelligence. When I'm not on my computer, I can sometimes be found struggling with the most meager weights on the market.
 
-- I’m currentlyam currently interning at American Express
+- I’m am currently interning at American Express
 - Pronouns: He/Him
 <!--
 **Kadekool/Kadekool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
